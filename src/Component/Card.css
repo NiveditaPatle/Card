@@ -1,0 +1,33 @@
+#div1 {
+    width: 320px;
+    height: 170px;
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 8px;
+    border: 1px solid rgb(172, 186, 235);
+    background-color: rgb(199, 221, 247);
+}
+
+#div2{
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p{
+    padding-bottom: 6px;
+}
+
+#div3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+span{
+    padding: 10px 10px 10px 10px;
+}
+
+hr{
+    border: 2px solid rgb(210, 63, 240);
+}
